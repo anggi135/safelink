@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="if(x=="1"){xxx="08/fxclub-review.html"}
+if(x=="1"){xxx="08/fxclub-review.html"}
 if(x=="2"){xxx="08/leading-forex-indicators.html"}
 if(x=="3"){xxx="08/learn-to-listen-to-forex-market.html"}
 if(x=="4"){xxx="08/identifying-qualitu-forex-markets.html"}
